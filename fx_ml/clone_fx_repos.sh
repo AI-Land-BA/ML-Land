@@ -11,7 +11,7 @@ cd ..
 mkdir Apache-MXNet
 cd Apache-MXNet
 git clone https://github.com/apache/incubator-mxnet
-cd .. 
+cd ..
 
 mkdir ONNX
 cd ONNX
@@ -39,3 +39,17 @@ git clone https://github.com/mwaskom/seaborn
 git clone https://github.com/statsmodels/statsmodels/
 git clone https://github.com/sympy/sympy
 git clone https://github.com/tflearn/tflearn
+cd ..
+
+mkdir rllab
+cd rllab
+git clone https://github.com/rll/rllab
+cd ..
+
+mkdir TensorFlow
+cd TensorFlow
+cd ..
+
+mkdir TensorRT
+cd TensorRT
+cd ..
