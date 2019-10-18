@@ -13,6 +13,11 @@ cd Apache-MXNet
 git clone https://github.com/apache/incubator-mxnet
 cd ..
 
+mkdir Apache-MADLib
+cd Apache-MADLib
+git clone https://github.com/apache/madlib 
+cd ..
+
 mkdir ONNX
 cd ONNX
 git clone https://github.com/onnx/models
